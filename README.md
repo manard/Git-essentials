@@ -13,8 +13,6 @@ to Clone the repo locally
 
 ![image](https://github.com/user-attachments/assets/c5c06083-da0b-4bc3-993b-dedba26469d8)
 
-PART TWO:
 
-Create a feature branch called develop
 
 
