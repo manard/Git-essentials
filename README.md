@@ -28,6 +28,9 @@ Add a change in the index.html, change the color to yellow of the text
 
 commit and push the changes
 
+![image](https://github.com/user-attachments/assets/043d9af4-a92e-4fc7-894b-27cd42d6a938)
+
+
 
 
 
