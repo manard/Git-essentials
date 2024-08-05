@@ -20,6 +20,14 @@ Create a new file called index.html and Add Hello World text
 
 commit ANd Push develop branch to GitHub
 
+![image](https://github.com/user-attachments/assets/136f5b08-42d3-49d0-8344-61cad81654f5)
+
+
+Add a change in the index.html, change the color to yellow of the text
+
+
+
+
 
 
 
